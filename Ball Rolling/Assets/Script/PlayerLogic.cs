@@ -1,4 +1,4 @@
-// nameSpace area
+ // nameSpace area
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
@@ -75,7 +75,7 @@ public class PlayerLogic : MonoBehaviour
 
     // this method not return any value
     // method using InputValue Class as argument parameter
-    // then use to plass input value to other struct variable
+    // then use to pass input value to other struct variable
     // InputValue is class and inputValue is instance of class we call as object
     // Void is used for prevent Method returning any value such as int float bool etc...
     //format: acessModifier void Method(className object);
