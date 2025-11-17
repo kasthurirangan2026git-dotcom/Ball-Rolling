@@ -6,7 +6,7 @@ public class CamaraControllerScript : MonoBehaviour
     public GameObject player;
 
    
-    public GameObject music;
+   
 
     // we want store playerGameObject transform component data so we create Vector3 struct instance
     //format: acessModifier strcut structInstanceName; 
