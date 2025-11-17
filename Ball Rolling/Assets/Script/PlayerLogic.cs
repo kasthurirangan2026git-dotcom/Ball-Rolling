@@ -1,4 +1,4 @@
-// nameSpace area
+ // nameSpace area
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
